@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="GAMEHUNT, Discord bot developer and community builder">
+  <defs>
+    <clipPath id="reveal"><rect x="0" y="120" width="1200" height="260"/></clipPath>
+  </defs>
+  <rect width="1200" height="440" fill="#0012ff"/>
+  <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="72" font-size="24" font-weight="700">GameHunt</text>
+    <text x="1140" y="72" font-size="20" text-anchor="end" opacity="0.85" xml:space="preserve">Bots    Community    Course</text>
+    <g clip-path="url(#reveal)">
+      <text x="56" y="330" font-size="250" font-weight="900" textLength="1090" lengthAdjust="spacingAndGlyphs">GAMEHUNT<animateTransform attributeName="transform" type="translate" from="0 260" to="0 0" dur="0.9s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></text>
+    </g>
+    <text x="60" y="404" font-size="26" opacity="0.92">Discord bot developer and community builder</text>
+  </g>
+</svg>
