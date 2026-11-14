@@ -1,14 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="GAMEHUNT, Discord bot developer and community builder">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="GAMEHUNT, Discord bot developer and community builder">
   <defs>
-    <clipPath id="reveal"><rect x="0" y="120" width="1200" height="260"/></clipPath>
+    <clipPath id="mask"><rect x="0" y="104" width="1200" height="246"/></clipPath>
   </defs>
-  <rect width="1200" height="440" fill="#0012ff"/>
+  <rect width="1200" height="460" fill="#0012ff"/>
   <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" fill="#ffffff">
-    <text x="60" y="72" font-size="24" font-weight="700">GameHunt</text>
-    <text x="1140" y="72" font-size="20" text-anchor="end" opacity="0.85" xml:space="preserve">Bots    Community    Course</text>
-    <g clip-path="url(#reveal)">
-      <text x="56" y="330" font-size="250" font-weight="900" textLength="1090" lengthAdjust="spacingAndGlyphs">GAMEHUNT<animateTransform attributeName="transform" type="translate" from="0 260" to="0 0" dur="0.9s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></text>
+    <text x="60" y="76" font-size="22" font-weight="700" opacity="0">GameHunt7062<animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.9s" fill="freeze"/></text>
+    <text x="1140" y="76" font-size="20" text-anchor="end" opacity="0" fill-opacity="0.85">Moderating Discord since 2022<animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.0s" fill="freeze"/></text>
+    <g clip-path="url(#mask)" fill="#ffffff">
+      <g transform="translate(0 330)"><path d="M109.2 342.1Q60 342.1 60 271.6V172.6Q60 108.3 116.4 108.3Q139.6 108.3 152 117.6Q164.4 126.9 169.1 144.8Q173.8 162.7 173.8 188.4H128.9V168Q128.9 160.6 126.9 155.6Q124.8 150.6 118.4 150.6Q110.5 150.6 107.9 155.9Q105.4 161.3 105.4 167.7V278.9Q105.4 288.2 107.8 294Q110.2 299.8 117.3 299.8Q124.6 299.8 127 294Q129.4 288.2 129.4 278.7V245.9H117.1V206.3H173.2V340H154.8L147 320.7Q135 342.1 109.2 342.1Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
+      <g transform="translate(0 330)"><path d="M188.5 340 210.7 110.4H288.6L310.4 340H266.9L263.7 302.9H236L233.1 340ZM239.3 266.3H260.1L250.1 149.5H248Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.24s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
+      <g transform="translate(0 330)"><path d="M327.8 340V110.4H397.8L417.1 250.4L436.3 110.4H506.8V340H464.8V174.6L438.5 340H397.3L369.3 174.6V340Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.33s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
+      <g transform="translate(0 330)"><path d="M530.6 340V110.4H622.4V154.7H577.3V199.5H620.6V242.7H577.3V295.3H625.4V340Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.42s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
+      <g transform="translate(0 330)"><path d="M644 340V110.4H689.6V192.4H711.3V110.4H757V340H711.3V235.9H689.6V340Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.51s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
+      <g transform="translate(0 330)"><path d="M833.8 342.1Q805.1 342.1 791.5 326Q778 309.9 778 278.6V110.4H822.6V276.7Q822.6 282.5 823.2 287.7Q823.9 293 826.2 296.4Q828.6 299.8 833.8 299.8Q839.1 299.8 841.5 296.5Q843.8 293.2 844.4 287.8Q845 282.5 845 276.7V110.4H889.6V278.6Q889.6 309.9 876.1 326Q862.5 342.1 833.8 342.1Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.60s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
+      <g transform="translate(0 330)"><path d="M910.6 340V110.4H957.9L979 220.4V110.4H1023.4V340H978.5L955.5 225.2V340Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.69s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
+      <g transform="translate(0 330)"><path d="M1066.8 340V154.5H1039.5V110.4H1140V154.5H1112.7V340Z"/><animateTransform attributeName="transform" type="translate" from="0 330" to="0 0" dur="0.85s" begin="0.78s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></g>
     </g>
-    <text x="60" y="404" font-size="26" opacity="0.92">Discord bot developer and community builder</text>
+    <text x="60" y="410" font-size="28" font-weight="600" opacity="0">Discord bot developer and community builder.<animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.1s" fill="freeze"/></text>
+    <text x="1140" y="410" font-size="20" text-anchor="end" fill-opacity="0.85" opacity="0">Python, discord.py 2.x<animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.2s" fill="freeze"/></text>
   </g>
 </svg>
