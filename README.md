@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://rawme.vercel.app"><b>Website</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/GameHunt7062?tab=repositories"><b>Repositories</b></a>
+<a href="https://github.com/gamehuntt?tab=repositories"><b>Repositories</b></a>
 
 </div>
 
@@ -19,6 +19,6 @@ I build Discord bots in Python with discord.py 2.x, both as tools for my own com
 ## What I Have Done
 
 - [BlanK-Bot](https://blankbot.vercel.app/) in Python for moderation, verification, community tools and AI chat
-- [BlanK-ord](https://github.com/gamehunt7062/Blankord) A discord multipurpose tool kid no with ui. No  need to install any dependency.
+- [BlanK-ord](https://github.com/gamehuntt/Blankord) A discord multipurpose tool kid no with ui. No  need to install any dependency.
 - A live course that teaches all of the above in 30 days
 
