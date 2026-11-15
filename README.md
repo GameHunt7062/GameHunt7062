@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/bannerf.svg">
+<img src="assets/banner.svg">
 
 <a href="https://rawme.vercel.app/articles"><b>Articles</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
