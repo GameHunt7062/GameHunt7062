@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Bots for communities that last. GameHunt, Discord bot developer" width="100%">
+<img src="assets/bannerf.svg" alt="Bots for communities that last. GameHunt, Discord bot developer" width="100%">
 
 <a href="https://rawme.vercel.app/articles"><b>Articles</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
