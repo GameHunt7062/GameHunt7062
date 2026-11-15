@@ -16,9 +16,9 @@
 
 I build Discord bots in Python with discord.py 2.x, both as tools for my own communities and as products for sale. I have been moderating and managing Discord servers since 2022, and I run a 30-day live course on Discord covering server management, fair decision-making, user experience, community building, and AI tools and bots.
 
-## What I build
+## What I Have Done
 
 - [BlanK-Bot](https://blankbot.vercel.app/) in Python for moderation, verification, community tools and AI chat
-- Server setups and workflows for communities that need fair, clear moderation
+- [BlanK-ord](https://github.com/gamehunt7062/Blankord) A discord multipurpose tool kid no with ui. No  need to install any dependency.
 - A live course that teaches all of the above in 30 days
 
